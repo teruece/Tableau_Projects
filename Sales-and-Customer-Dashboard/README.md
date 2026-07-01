@@ -7,13 +7,17 @@ Jayson Supplies Ltd. requires a transition from static reporting to dynamic anal
 
 The primary deliverables include interactive Sales and Customer dashboards and a comprehensive User Guide. The Sales Dashboard serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The Customer Dashboard offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on Sales & Customer Dashboards to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion Document at the top this page.
 
-Full view of Sales Dashboard
+## Full view of Sales Dashboard
 
+![Sales Dashboard Preview](images/sales-dashboard.png)
 
+[View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
 
-Full view of Customer Dashboard
+## Full view of Customer Dashboard
 
+![Sales Dashboard Preview](images/customer-dashboard.png)
 
+[View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
 
 Business Problem: The Need for Clarity
 Jayson Supplies Ltd. faced a common corporate challenge: fragmented data that obscured real-time performance and hindered proactive decision-making. Management needed to move beyond basic totals to understand the nuances of growth, regional fluctuations, and customer retention across a four-year period.
