@@ -9,13 +9,13 @@ The primary deliverables include interactive Sales and Customer dashboards and a
 
 ## Full view of Sales Dashboard
 
-![Sales Dashboard Preview](images/sales-dashboard.png)
+![Sales Dashboard Preview](sales-dashboard.png)
 
 [View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
 
 ## Full view of Customer Dashboard
 
-![Sales Dashboard Preview](images/customer-dashboard.png)
+![Sales Dashboard Preview](customer-dashboard.png)
 
 [View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
 
