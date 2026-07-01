@@ -9,11 +9,11 @@ The primary deliverables include interactive Sales and Customer dashboards and a
 
 ## Full view of Sales Dashboard
 
-![Sales Dashboard Preview](sales-dashboard.png)
+![Sales Dashboard Preview](sales_dashboard.png)
 
 ## Full view of Customer Dashboard
 
-![Sales Dashboard Preview](customer-dashboard.png)
+![Sales Dashboard Preview](customer_dashboard.png)
 
 # Business Problem: The Need for Clarity
 Jayson Supplies Ltd. faced a common corporate challenge: fragmented data that obscured real-time performance and hindered proactive decision-making. Management needed to move beyond basic totals to understand the nuances of growth, regional fluctuations, and customer retention across a four-year period.
@@ -47,7 +47,7 @@ A cohesive color palette was applied, featuring slate grey (#303030) for trends,
 Mobile Optimization: As the final stage, the dashboards were specifically reformatted for mobile devices. This ensures that executives can access critical insights via smartphones with tailored layouts that prioritize readability on smaller screens.
 
 Mobile Phone view of Dashboards
-![Sales Dashboard Preview](Mobile Phone view.png)
+![Sales Dashboard Preview](Mobile_Phone_view.png)
 
 
 Skills Demonstrated
@@ -87,7 +87,7 @@ Behavior and Loyalty
 The Customer Dashboard shifts the focus from "what was sold" to "who is buying". By 2025, the active customer base grew to 693 individuals, an 8.6% increase. More importantly, the Total Sales Per Customer rose by 10.8% to $1,058, indicating that the company is successfully extracting more value from its existing base.
 
 Customer Distribution by Order Quantity and Top 10 Customers by Profit
-![Sales Dashboard Preview](Customer distribution.png)
+![Sales Dashboard Preview](Customer_distribution.png)
 
 
 Analytical thinking is best demonstrated in the Customer Distribution by Order Quantity chart. The visualization reveals a significant hurdle: 400 customers (nearly 58% of the base) have placed only one or two orders. This insight identifies a massive opportunity for the marketing team to convert these "one-hit wonders" into repeat buyers.
@@ -113,6 +113,6 @@ Tooltip showing specific loss details for the "Machines" sub-category
 This project delivers more than just visualizations; it provides a comprehensive decision-support system. By automating the data flow and providing mobile-optimized, interactive views, the dashboards save hours of manual reporting time each week. The inclusion of a detailed User Guide ensures that stakeholders can independently navigate filters, utilize tooltips for granular details, and export high-quality snapshots for board presentations. Ultimately, the value of this analysis lies in its ability to move the organization from reactive observation to proactive strategy. Jayson Supplies Ltd. now has the clarity to minimize losses in underperforming product categories and maximize the lifetime value of every customer, ensuring sustainable growth through 2025 and beyond.
 
 The Filter Panel showing drill-down capabilities by Year, Product, and Location
-![Sales Dashboard Preview](Filter Panel.png)
+![Sales Dashboard Preview](Filter_Panel.png)
 
 
