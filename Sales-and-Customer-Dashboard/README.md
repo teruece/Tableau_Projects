@@ -113,6 +113,6 @@ Tooltip showing specific loss details for the "Machines" sub-category
 This project delivers more than just visualizations; it provides a comprehensive decision-support system. By automating the data flow and providing mobile-optimized, interactive views, the dashboards save hours of manual reporting time each week. The inclusion of a detailed User Guide ensures that stakeholders can independently navigate filters, utilize tooltips for granular details, and export high-quality snapshots for board presentations. Ultimately, the value of this analysis lies in its ability to move the organization from reactive observation to proactive strategy. Jayson Supplies Ltd. now has the clarity to minimize losses in underperforming product categories and maximize the lifetime value of every customer, ensuring sustainable growth through 2025 and beyond.
 
 The Filter Panel showing drill-down capabilities by Year, Product, and Location
-Sales-and-Customer-Dashboard/Filter Panel.png
+![Sales Dashboard Preview](Filter Panel.png)
 
 
