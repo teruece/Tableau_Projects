@@ -11,13 +11,9 @@ The primary deliverables include interactive Sales and Customer dashboards and a
 
 ![Sales Dashboard Preview](sales-dashboard.png)
 
-[View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
-
 ## Full view of Customer Dashboard
 
 ![Sales Dashboard Preview](customer-dashboard.png)
-
-[View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
 
 Business Problem: The Need for Clarity
 Jayson Supplies Ltd. faced a common corporate challenge: fragmented data that obscured real-time performance and hindered proactive decision-making. Management needed to move beyond basic totals to understand the nuances of growth, regional fluctuations, and customer retention across a four-year period.
