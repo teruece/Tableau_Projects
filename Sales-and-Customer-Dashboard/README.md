@@ -1,6 +1,6 @@
-Sales and Customer Analytics: Dynamic Tableau Dashboards for Jayson Supplies Ltd.
+## Sales and Customer Analytics: Dynamic Tableau Dashboards for Jayson Supplies Ltd.
 
-Executive Summary
+# Executive Summary
 Jayson Supplies Ltd. requires a transition from static reporting to dynamic analytical dashboards to navigate sales performance and customer loyalty effectively. This project delivers a suite of high-impact deliverables designed to transform transactional data from 2022 to 2025 into a strategic roadmap for growth.
 
 [View Interactive Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/teruyuki.ito/viz/SalesandCustomerDashboards_17828597009330/SalesDashboard?publish=yes)
@@ -15,12 +15,12 @@ The primary deliverables include interactive Sales and Customer dashboards and a
 
 ![Sales Dashboard Preview](customer-dashboard.png)
 
-Business Problem: The Need for Clarity
+# Business Problem: The Need for Clarity
 Jayson Supplies Ltd. faced a common corporate challenge: fragmented data that obscured real-time performance and hindered proactive decision-making. Management needed to move beyond basic totals to understand the nuances of growth, regional fluctuations, and customer retention across a four-year period.
 
 The primary objective was to build a diagnostic tool capable of answering critical business questions. Stakeholders needed to know how current sales and profits compared to previous year benchmarks and which specific months represented seasonal peaks or troughs across different years. From a product perspective, there was a critical need to identify if certain subcategories, such as "Tables" or "Machines," were generating revenue at the expense of profit. Furthermore, the marketing team required a way to distinguish loyal customers from those at risk of churning, while operational leads needed to identify which weeks outperformed historical averages to understand the triggers behind those spikes.
 
-Tools and Methodology: The Analytical Journey
+# Tools and Methodology: The Analytical Journey
 
 Source of Datasets
 The analysis used a comprehensive sales dataset sourced from GitHub. The data reflects consistent reporting across all regions from 2022 to 2025. For the purpose of this analysis, it was assumed that data integrity was maintained across all transaction types to allow for a seamless 24-hour refresh cycle reflecting the previous day’s close.
@@ -82,7 +82,7 @@ The dashboard uses Sparklines to show the month-over-month trend for the current
 
 A critical component of this dashboard is the Sales and Profit by Category section. It uses a Bar-in-Bar chart to visualize YoY subcategory performance. Orange dots are applied to subcategories where current sales have fallen behind the previous year, such as in "Machines," "Envelopes," and "Fasteners." Furthermore, a diverging bar chart on the right highlights that "Tables" are currently incurring a significant loss despite being a top-tier revenue generator.
 
-Customer Dashboard Deep Dive: 
+# Customer Dashboard Deep Dive: 
 Behavior and Loyalty
 The Customer Dashboard shifts the focus from "what was sold" to "who is buying". By 2025, the active customer base grew to 693 individuals, an 8.6% increase. More importantly, the Total Sales Per Customer rose by 10.8% to $1,058, indicating that the company is successfully extracting more value from its existing base.
 
@@ -94,7 +94,7 @@ Analytical thinking is best demonstrated in the Customer Distribution by Order Q
 
 The Top 10 Customers by Profit table provides a granular look at the company’s most valuable assets. It ranks customers like Raymond Buch, who generated over $6,700 in profit from just three orders, allowing the sales team to prioritize high-touch relationship management for these VIP accounts.
 
-Executive Insights and Strategic Recommendations
+# Executive Insights and Strategic Recommendations
 The combination of these dashboards uncovers several areas where Jayson Supplies Ltd. can take immediate action to improve its bottom line:
 
 1. Address the "Table" Paradox: The data shows that "Tables" are high-volume but high-loss. Management should conduct a pricing audit or renegotiate supplier contracts to ensure this category contributes to, rather than detracts from, total profit.
@@ -109,7 +109,7 @@ Tooltip showing specific loss details for the "Machines" sub-category
 ![Sales Dashboard Preview](Tooltip.png)
 
 
-Conclusion
+# Conclusion
 This project delivers more than just visualizations; it provides a comprehensive decision-support system. By automating the data flow and providing mobile-optimized, interactive views, the dashboards save hours of manual reporting time each week. The inclusion of a detailed User Guide ensures that stakeholders can independently navigate filters, utilize tooltips for granular details, and export high-quality snapshots for board presentations. Ultimately, the value of this analysis lies in its ability to move the organization from reactive observation to proactive strategy. Jayson Supplies Ltd. now has the clarity to minimize losses in underperforming product categories and maximize the lifetime value of every customer, ensuring sustainable growth through 2025 and beyond.
 
 The Filter Panel showing drill-down capabilities by Year, Product, and Location
